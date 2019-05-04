@@ -3,19 +3,20 @@
 ## ENGLISH
 
 ### GIT
-[https://cs61.seas.harvard.edu/site/ref/git/](URL "GIT QUICKSTART")
+[GIT INFO](URL "https://cs61.seas.harvard.edu/site/ref/git/")
 
 ### FLEXBOX
-https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+[FLEXBOX QUICKSTART](URL "https://css-tricks.com/snippets/css/a-guide-to-flexbox/")
 
 #### FLEXBOX (COURSE)
-https://wesbos.com/courses/ 
+[FLEXBOX (COURSE)](URL "https://wesbos.com/courses/")
 
 ## SPANISH
 
 ### GIT Y GITHUB (CURSO)
-https://appsco.platzi.com/clases/git-appsco/
+[GIT Y GITHUB (CURSO)](URL "https://appsco.platzi.com/clases/git-appsco/")
 
-### DOCUMENTACION DE PYTHON 3 BÁSICO (EN CONSTRUCCIÓN)
-https://gstlabs.herokuapp.com/portfolio/documentation.html
+### PYTHON 3 BÁSICO (EN CONSTRUCCIÓN)
+[DOCUMENTACIÓN PYTHON 3](URL "https://gstlabs.herokuapp.com/portfolio/documentation.html")
+
 
