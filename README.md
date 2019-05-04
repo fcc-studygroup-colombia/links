@@ -1,15 +1,15 @@
 # LINKS UTILES
 
-# GIT
+## GIT
 https://cs61.seas.harvard.edu/site/ref/git/
 
-# GIT Y GITHUB (CURSO)
+### GIT Y GITHUB (CURSO)
 https://appsco.platzi.com/clases/git-appsco/
 
-# FLEXBOX
+## FLEXBOX
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
-# FLEXBOX (CURSO)
+### FLEXBOX (CURSO)
 https://wesbos.com/courses/ 
 
 # DOCUMENTACION DE PYTHON 3 BÁSICO (EN CONSTRUCCIÓN)
