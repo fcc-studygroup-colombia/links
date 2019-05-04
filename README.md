@@ -3,7 +3,7 @@
 ## ENGLISH
 
 ### GIT
-https://cs61.seas.harvard.edu/site/ref/git/
+[https://cs61.seas.harvard.edu/site/ref/git/](URL "GIT QUICKSTART")
 
 ### FLEXBOX
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
