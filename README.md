@@ -1,2 +1,7 @@
-# links
-Links útiles para el grupo de estudio.
+# Links útiles
+
+# GIT
+https://cs61.seas.harvard.edu/site/ref/git/
+
+# FLEXBOX
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
