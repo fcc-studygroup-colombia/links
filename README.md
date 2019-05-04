@@ -3,7 +3,7 @@
 ## ENGLISH
 
 ### GIT
-[GIT INFO](URL "https://cs61.seas.harvard.edu/site/ref/git/")
+[GIT INFO](https://cs61.seas.harvard.edu/site/ref/git/ "GIT INFO")
 
 ### FLEXBOX
 [FLEXBOX QUICKSTART](URL "https://css-tricks.com/snippets/css/a-guide-to-flexbox/")
