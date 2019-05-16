@@ -1,3 +1,6 @@
+# CHAT DE LA COMUNIDAD
+[![Gitter](https://badges.gitter.im/FCC-Study-group-Colombia/community.svg)](https://gitter.im/FCC-Study-group-Colombia/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 # LINKS UTILES
 
 ## ENGLISH
