@@ -15,9 +15,9 @@
 [https://wesbos.com/courses/](https://wesbos.com/courses/ "FLEXBOX (COURSE)")
 
 ### SQL (General)
+[https://mode.com/](https://mode.com/ "Práctica con Bases Públicas")
 
-[https://mode.com/] "Práctica con Bases Públicas")
-[http://files.zeroturnaround.com/pdf/zt_sql_cheat_sheet.pdf] "Hoja de referencia rápida")
+[http://files.zeroturnaround.com/pdf/zt_sql_cheat_sheet.pdf](http://files.zeroturnaround.com/pdf/zt_sql_cheat_sheet.pdf "Hoja de referencia rápida")
 
 ## SPANISH
 
