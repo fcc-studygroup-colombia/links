@@ -14,6 +14,11 @@
 #### FLEXBOX (COURSE)
 [https://wesbos.com/courses/](https://wesbos.com/courses/ "FLEXBOX (COURSE)")
 
+### SQL (General)
+
+[https://mode.com/] "Práctica con Bases Públicas")
+[http://files.zeroturnaround.com/pdf/zt_sql_cheat_sheet.pdf] "Hoja de referencia rápida")
+
 ## SPANISH
 
 ### GIT Y GITHUB (CURSO)
