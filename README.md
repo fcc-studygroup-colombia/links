@@ -1,5 +1,8 @@
-# CHAT DE LA COMUNIDAD
-[![Gitter](https://badges.gitter.im/FCC-Study-group-Colombia/community.svg)](https://gitter.im/FCC-Study-group-Colombia/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+# SOCIAL
+[![Gitter](https://badges.gitter.im/FCC-Study-group-Colombia/community.svg)](https://gitter.im/FCC-Study-group-Colombia/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)&nbsp;
+[![Twitter](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/ColombiaFCC)
+
+
 
 # LINKS UTILES
 
