@@ -1,6 +1,6 @@
 # SOCIAL
 [![Gitter](https://badges.gitter.im/FCC-Study-group-Colombia/community.svg)](https://gitter.im/FCC-Study-group-Colombia/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)&nbsp;
-[![Twitter](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)](https://twitter.com/ColombiaFCC)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue.svg)](https://twitter.com/ColombiaFCC)
 
 
 
