@@ -1,6 +1,6 @@
 # SOCIAL
-[![Gitter](https://img.shields.io/badge/Chat-on%20Gitter-green.svg)](https://gitter.im/FCC-Study-group-Colombia/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)&nbsp;
-[![Twitter](https://img.shields.io/badge/Twitter-Follow%20us-green.svg)](https://twitter.com/ColombiaFCC)
+[![Gitter](https://img.shields.io/badge/Chat-on%20Gitter-006400.svg)](https://gitter.im/FCC-Study-group-Colombia/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)&nbsp;&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-follow%20us-006400.svg)](https://twitter.com/ColombiaFCC)
 
 
 
